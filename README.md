@@ -1,21 +1,6 @@
 # WineScraper
 
-**TODO: Add description**
+**WineScraper** it's a small web scraper built with Elixir to collect data
+about wines from [evino](https://evino.com.br) website
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `wine_scraper` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:wine_scraper, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/wine_scraper>.
 
